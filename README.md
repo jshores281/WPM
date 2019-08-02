@@ -1,2 +1,0 @@
-# WPM
-wireless profile manager
