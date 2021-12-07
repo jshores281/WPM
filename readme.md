@@ -2,10 +2,12 @@
 
 Wireless Profile Manager (WPM Script) 
 
-Reveals information about connected or previously 
-connected wifi network SSID's. 
+Features:
+1. Reveals information about previously connected Wi-Fi AP names. 
+2. Quickly able to show previously connected to Wi-Fi passwords.
+3. Enables deleting selected or all SSID profiles.
 
-It also enables deleting of these SSID profiles.
+More Coming Soon...
 
 #####################################################################################
 #####################################################################################
