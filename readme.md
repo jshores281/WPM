@@ -20,7 +20,7 @@ connected wifi network SSID's. it also enables deleting of these SSID profiles.
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/52839097/145108657-d77cba8e-df10-4e0d-ae31-74a1ae718c8f.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/52839097/145108636-8a51388b-736e-4ffd-bc66-a974c39104b4.png" width="700" />
+  <img src="https://user-images.githubusercontent.com/52839097/145108636-8a51388b-736e-4ffd-bc66-a974c39104b4.png" width="500" />
 </p>  
 
 
