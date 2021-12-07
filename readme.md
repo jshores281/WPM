@@ -13,22 +13,26 @@ connected wifi network SSID's. it also enables deleting of these SSID profiles.
 
 -below you will see a list of options numbered 1 - 4
 
-![start-page](https://user-images.githubusercontent.com/52839097/145102435-1f87860c-358b-4e8a-87f0-67f407570ec7.PNG)
+![start-page](https://user-images.githubusercontent.com/52839097/145103913-c2569c22-d262-46b9-9b5f-009fe41bd45d.PNG)
+
 
 -option 1 will reveal basic infomation regarding a choosen profile
 
-![network-page](https://user-images.githubusercontent.com/52839097/145102539-95aef24c-eb5f-49d0-8b21-5804c56c5643.png)
-![password-page](https://user-images.githubusercontent.com/52839097/145102563-7c8ebd0b-07e4-4b33-9d5a-f3091f579fe8.png)
+![network-page](https://user-images.githubusercontent.com/52839097/145103935-0b1d0e23-f982-443e-9018-5634372e612b.png)
+![network-info-page](https://user-images.githubusercontent.com/52839097/145103972-8c097484-5f08-4cb2-ad23-21eed156973a.png)
 
 
 -option 2 will allow you to view previously connected WI-FI profiles password in the case that password has been forgotten or unavailable 
 
-![password-page](https://user-images.githubusercontent.com/52839097/145102563-7c8ebd0b-07e4-4b33-9d5a-f3091f579fe8.png)
+![password-page](https://user-images.githubusercontent.com/52839097/145103999-e535ba0b-7878-4d7a-95ad-bee58a7e64f0.png)
+![pass-reveal](https://user-images.githubusercontent.com/52839097/145104501-48fb2f44-41af-45b6-822d-ea8a8aea5a14.png)
+
 
 
 -option 3 will allow you to deleted previously connected profiles. you can type each wifi name in manually or you can type * which will delete all profiles.
 
-![network-del](https://user-images.githubusercontent.com/52839097/145102575-66228d46-7661-47bf-887b-09adf25e7880.png)
+![network-del](https://user-images.githubusercontent.com/52839097/145104522-bbc86066-34fb-44ff-aead-d54181ae2108.png)
+
 
 
 -option 4 will exit the program. 
