@@ -1,8 +1,9 @@
 #####################################################################################
-wireless profile manager (wpm script) 
+Wireless Profile Manager (WPM Script) 
 
-reveals information about connected or previously 
-connected wifi network SSID's. it also enables deleting of these SSID profiles.
+Reveals information about connected or previously 
+connected wifi network SSID's. 
+It also enables deleting of these SSID profiles.
 
 #####################################################################################
 #####################################################################################
