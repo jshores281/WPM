@@ -18,7 +18,8 @@ connected wifi network SSID's. it also enables deleting of these SSID profiles.
 
 -option 1 will reveal basic infomation regarding a choosen profile
 
-![network-page](https://user-images.githubusercontent.com/52839097/145103935-0b1d0e23-f982-443e-9018-5634372e612b.png)
+
+![network-page](https://user-images.githubusercontent.com/52839097/145108452-7e96744d-0d11-44de-96da-ffac016211c8.png)
 ![network-info-page](https://user-images.githubusercontent.com/52839097/145103972-8c097484-5f08-4cb2-ad23-21eed156973a.png)
 
 
