@@ -15,6 +15,9 @@ connected wifi network SSID's. it also enables deleting of these SSID profiles.
 
 -option 1 will reveal basic infomation regarding a choosen profile
 
+![Screenshot (4)](https://user-images.githubusercontent.com/52839097/145094824-f73fbdfe-5dd5-494f-950b-e1988bcb4b31.png)
+
+
 -option 2 will allow you to view previously connected WI-FI profiles password in the case that password has been forgotten or unavailable 
 
 -option 3 will allow you to deleted previously connected profiles. you can type each wifi name in manually or you can type * which will delete all profiles.
