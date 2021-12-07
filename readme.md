@@ -12,7 +12,7 @@ More Coming Soon...
 #####################################################################################
 #####################################################################################
 
--when WPM script is ran a command prompt window will appear with previously connect WI-FI profiles that your computer has connected to. 
+*When WPM script is ran a CLI Window will appear along with previously connected to WI-FI profiles on the main page
 -once you enter a option, you only need to type "back" to return to previous page.
 
 
