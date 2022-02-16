@@ -51,7 +51,8 @@ More Coming Soon...
 
 #####################################################################################
 
-Be aware of
+To be aware of
+
 -this is a custom script that is not signed by microsoft 
 -this does not have any harmfull components within this program
 -all components within this program are made with microsoft built-in commands 
