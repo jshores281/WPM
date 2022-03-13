@@ -1,3 +1,36 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCyDJGyX8VAjFDNxYC2tD1eeCbYJ5e31+/m7gWI5cd0dWbz+5pavFNMv6ETwO4Y/2XBfm98fMA9XcR64UQ01vX1+mEnII8iTvzPWemXE0BgMDGxyjlzDhSw1Yd9XkvoS7Cm980OxlqYfsQ==
+::YAwzuBVtJxjWCl3EqQJhSA==
+::ZR4luwNxJguZRRmzxG9hekgVLA==
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSDk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+JeA==
+::cxY6rQJ7JhzQF1fEqQJQ
+::ZQ05rAF9IBncCkqN+0xwdVs0
+::ZQ05rAF9IAHYFVzEqQJQ
+::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
+::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
+::cRolqwZ3JBvQF1fEqQJQ
+::dhA7uBVwLU+EWDk=
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATElA==
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRnk
+::Zh4grVQjdCyDJGyX8VAjFDNxYC2tD1eeCbYJ5e31+/m7gWI5cd0dWbz+5pavFNMv6ETwO4Y/2XBfm98fMA9XcR64UQ01vX1+mEnII8iTvzPWemXE0BgMLFVZuHWBwn51Zctt+g==
+::YB416Ek+ZW8=
+::
+::
+::978f952a14a936cc963da21a135fa983
 
 echo off
 :NETWORKSHELL MENU
@@ -124,11 +157,9 @@ set /p input="CHOOSE AN OPTION: "
 set input="%input%"
 ::echo %input%
 ::pause
-if %input%=="input" goto :delete0
+if %input%==input goto :delete0
 if %input%=="*" goto :DFE
-if %input%==back goto :NETWORKSHELL
-cls
-goto :NETWORKSHELL MENU
+if %input%=="back" goto :NETWORKSHELL
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :delete0
 echo %input%
