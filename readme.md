@@ -1,4 +1,4 @@
-#####################################################################################
+---
 
 Wireless Profile Manager (WPM Script) 
 
@@ -9,47 +9,52 @@ Features:
 
 More Coming Soon...
 
-#####################################################################################
-#####################################################################################
+---
+---
 
 *When WPM script is ran a CLI Window will appear along with previously connected to WI-FI profiles on the main page
 -once you enter a option, you only need to type "back" to return to previous page.
 
+---
 
--below you will see a list of options numbered 1 - 4
+- below is a list of options numbered 1 - 4
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52839097/145103913-c2569c22-d262-46b9-9b5f-009fe41bd45d.PNG"
 </p>
 
--option 1 will reveal basic infomation regarding a choosen profile
+---
+
+- option 1 will reveal basic infomation regarding a choosen profile
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52839097/145108657-d77cba8e-df10-4e0d-ae31-74a1ae718c8f.png" height="600" />
   <img src="https://user-images.githubusercontent.com/52839097/145108636-8a51388b-736e-4ffd-bc66-a974c39104b4.png" height="600" />
 </p>  
 
+---
 
-
--option 2 will allow you to view previously connected WI-FI profiles password in the case that password has been forgotten or unavailable 
+- option 2 will allow you to view previously connected WI-FI profiles password in the case that password has been forgotten or unavailable 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52839097/145103999-e535ba0b-7878-4d7a-95ad-bee58a7e64f0.png" width="490" height="600" />
   <img src="https://user-images.githubusercontent.com/52839097/145109179-a0768232-dddc-4107-9a3c-05273bb3d8e4.png" width="490" height="600" />
 </p>
 
+---
 
--option 3 will allow you to deleted previously connected profiles. you can type each wifi name in manually or you can type * which will delete all profiles.
+- option 3 will allow you to deleted previously connected profiles. you can type each wifi name in manually or you can type * which will delete all profiles.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52839097/145104522-bbc86066-34fb-44ff-aead-d54181ae2108.png">
 </p>
 
+---
 
--option 4 will exit the program. 
+- option 4 will exit the program. 
 
 
-
-#####################################################################################
+---
+---
 
 To be aware of
 
@@ -63,5 +68,5 @@ To be aware of
 
 - i hope this script will be helpful to whoever comes across it as it was for me and why i created it. 
 
-#####################################################################################
-#####################################################################################
+---
+---
