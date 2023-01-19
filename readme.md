@@ -1,13 +1,14 @@
----
 
-Wireless Profile Manager (WPM Script) 
 
-Features:
+# Wireless Profile Manager (WPM Script) 
+
+
+## Features:
 1. Reveals information about previously connected Wi-Fi AP's. 
 2. Quickly able to show saved Wi-Fi passwords.
 3. Enables deleting selected or all Wi-Fi profiles.
 
-More Coming Soon...
+
 
 ---
 ---
